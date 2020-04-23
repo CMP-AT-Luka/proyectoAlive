@@ -1,0 +1,82 @@
+
+nav{
+  background-color: pink;
+  heigh:20px;
+  width:100%;
+}
+a{
+  color: black;
+  margin-left: 10px;
+}
+main{
+  width: 100%;
+
+  padding: 25px;
+  background-color: lightblue;
+  height: 425px;
+}
+
+footer{
+  background-color: #A999F9;
+  height: 30px;
+  width:100%;
+}
+
+button{
+  cursor: pointer;
+  border-radius: .5em;
+  margin: 10px;
+  width: 210px;
+  height: 160px;
+  background-color: white
+}
+p{
+  margin-left: 18px
+}
+div{
+  margin-left: 18px
+}
+body{
+  background-image: url("https://i.pinimg.com/736x/00/43/a4/0043a434261c56c1ec4b42c28402b67c.jpg");
+  background-size: cover;
+}
+.boton_continental:hover{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/2d/Aerial_View_of_Autumn_Forest_Colors.jpg");
+  background-size: cover;
+}
+.boton_ecuatorial:hover{
+  background-image: url("https://www.meteorologiaenred.com/wp-content/uploads/2016/06/bosque_lluvioso-830x623.jpg");
+  background-size: cover;
+}
+.boton_tropical:hover{
+  background-image: url("https://cdn.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_700/https://lostipos.net/wp-content/uploads/2018/03/clima-tropical_opt-1.jpg");
+  background-size: cover;
+}
+.boton_subtropicalA:hover{
+  background-image: url("https://cdn.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_700/https://lostipos.net/wp-content/uploads/2018/03/clima-subtropical_opt.jpg");
+  background-size: cover;
+}
+.boton_montana:hover{
+  background-image: url("https://www.paiscircular.cl/wp-content/uploads/2019/10/shutterstock_793442983.jpg");
+  background-size: cover;
+}
+.boton_tundra:hover{
+  background-image: url("https://decologia.info/wp-content/uploads/2019/03/bioma-de-la-tundra-alpina4.jpg");
+  background-size: cover;
+}
+.boton_desertico:hover{
+  background-image: url("https://live.staticflickr.com/5211/5481349751_7085bd2805_b.jpg");
+  background-size: cover;
+}
+.boton_subtropicalH:hover{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/21/%E6%BC%93%E6%B1%9F%E5%B1%B1%E6%B0%B4.jpg");
+  background-size: cover;
+}
+.boton_mediterreaneo:hover{
+  background-image: url("https://www.meteorologiaenred.com/wp-content/uploads/2016/09/Piornal_en_flor-1024x768.jpg");
+  background-size: cover;
+}
+.boton_oceanico:hover{
+  background-image: url("https://www.astromia.com/tierraluna/fotos/climas2.jpg");
+  background-size: cover;
+}
