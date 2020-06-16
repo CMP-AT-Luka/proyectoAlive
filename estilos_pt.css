@@ -1,12 +1,8 @@
 .contenedor{
+  margin-top: 30px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-}
-.containerback{
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
 }
 
 a{
