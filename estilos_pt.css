@@ -2,7 +2,8 @@
   margin-top: 30px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly
+  justify-content: space-evenly;
+
 }
 
 a{
@@ -13,7 +14,7 @@ a{
 button{
   cursor: pointer;
   border-radius: .5em;
-  margin: 15px;
+  margin: 23px;
   width: 210px;
   height: 160px;
   background-color: #E3E3E3
@@ -57,7 +58,7 @@ body{
   background-size: cover;
 }
 .boton_subtropicalH:hover{
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/21/%E6%BC%93%E6%B1%9F%E5%B1%B1%E6%B0%B4.jpg");
+  background-image: url("https://vignette.wikia.nocookie.net/fivenightsatfreddys/images/c/c7/Golden_freddy.png/revision/latest/top-crop/width/360/height/450?cb=20180420233751");
   background-size: cover;
 }
 .boton_mediterreaneo:hover{
