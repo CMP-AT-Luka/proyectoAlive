@@ -62,3 +62,7 @@ body{
   background-image: url("https://external-preview.redd.it/6R-EC44vlzdzYZQKkx-Al0Zf_WiiRsGNexVcXvrbMyQ.png?auto=webp&s=a34e9ea9aaa18c9f189c4bbc5ff770450916d837");
   background-size: cover;
 }
+.nights:hover{
+  background-image: url("https://i.makeagif.com/media/8-15-2015/5pc5qo.gif");
+  background-size: contain;
+}
