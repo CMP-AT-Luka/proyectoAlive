@@ -6,12 +6,10 @@
   justify-content: space-evenly;
 
 }
-
 a{
   color: black;
   margin-left: 10px;
 }
-
 button{
   cursor: pointer;
   border-radius: .5em;
@@ -30,7 +28,6 @@ button:hover{
   margin-left: 10px;
   margin-right: 19px;
 }
-
 p{
   margin-left: 18px
 }
@@ -39,9 +36,7 @@ div{
 }
 body{
   background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d703fc3a-23e5-41ca-a298-2fe7856c8d95/db29wa2-a2c8a45b-6b72-45f1-a3fb-62921cf97c3b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZDcwM2ZjM2EtMjNlNS00MWNhLWEyOTgtMmZlNzg1NmM4ZDk1XC9kYjI5d2EyLWEyYzhhNDViLTZiNzItNDVmMS1hM2ZiLTYyOTIxY2Y5N2MzYi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.fL_CwK8I7_NNyT2rzqZVRZvx7v6ZXFhmQ2aqvjWwk88")
-
 }
-
 .freddy:hover{
   background-image: url("https://cdn141.picsart.com/312654432101211.png?type=webp&to=min&r=640");
   background-size: cover;
